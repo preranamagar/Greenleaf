@@ -1,0 +1,25 @@
+p{
+    color:#8a8a8a;
+}
+.social {
+    padding: 8px;
+    width: 25px;
+    text-align: center;
+    border-radius: 50%;
+    background: white;
+  }
+a{
+    color: #8a8a8a;
+    font-size: 18px;
+    text-decoration: none;
+}
+h3{
+    color: aliceblue;
+}
+.copyright{
+    border-top: #8a8a8a solid 1px;
+    color: #827f7f;
+}
+.footers{
+    margin-bottom: 10px;
+}
